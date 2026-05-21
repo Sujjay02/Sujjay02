@@ -61,16 +61,6 @@ Director of [InspireNC](https://inspirenc.org), a STEM nonprofit partnered with 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujjay02&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujjay02&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
-</div>
-
----
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-sujjay02.github.io-black?style=flat&logo=github)](https://sujjay02.github.io)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujjay_Karthikeyan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujjay-karthikeyan-b058a8223)

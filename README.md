@@ -2,9 +2,9 @@
 
 **Mechanical Engineering + Physics @ UNC Charlotte · AI minor · May 2028**
 
-Building autonomous systems that operate in the physical world — from multi-UAV swarms navigating contested airspace to carbon fiber airframes fabricated by hand. Undergraduate researcher at the [SmartNet Lab](https://smartnetlab.org), where my current focus is closing the loop between RL policy and real multi-robot coordination. Interning at [Kathedra](https://kathedra.io) in Conover, NC across mechanical design and software integration.
+Building autonomous systems that operate in the physical world — from multi-UAV swarms navigating contested airspace to carbon fiber airframes fabricated by hand. Undergraduate researcher at the [SmartNet Lab](https://sites.google.com/view/welcome-to-ran-zhangs-homepage/research-lab/research-team), where my current focus is closing the loop between RL policy and real multi-robot coordination. Interning at [Kathedra](http://kathedra.vercel.app/) in Conover, NC across mechanical design and software integration.
 
-Director of [InspireNC](https://inspirenc.org), a STEM nonprofit partnered with the US Air Force, MetLife, and Lenovo.
+Director of [InspireNC](https://inspirenc.us/), a STEM nonprofit partnered with the US Air Force, MetLife, and Lenovo.
 
 ---
 
